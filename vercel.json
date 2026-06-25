@@ -1,5 +1,4 @@
 {
   "buildCommand": "cd web && bun install && bun run build",
-  "outputDirectory": "web/.next",
   "installCommand": "cd web && bun install"
 }
